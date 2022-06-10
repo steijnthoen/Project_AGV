@@ -1,5 +1,7 @@
+//moet refrence naar gyroscope.c
 
-int gyroscope_refrence;
+
+int gyroscope_refrence; // waarde van de gyroscope wanneer hij begint met draaien
 
 void mass_update_gyroscope()
 {
