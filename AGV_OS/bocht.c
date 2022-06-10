@@ -1,4 +1,5 @@
-//moet refrence naar gyroscope.c
+// moet refrence naar gyroscope.c
+// moet refrence naar functie die agv laat draaien
 
 
 int gyroscope_refrence; // waarde van de gyroscope wanneer hij begint met draaien
